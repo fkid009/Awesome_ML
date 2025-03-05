@@ -4,4 +4,28 @@ This repository contains Python implementations of various machine learning algo
 
 ## Directory Structure
 ```plain text
-📂 Machine-Learning-From-Scratch ├── 📂 Utils │ ├── 📂 Classification │ │ ├── decision_tree.py │ │ ├── naive_bayes.py │ │ ├── k_nearest_neighbors.py │ │ ├── support_vector_machine.py │ │ ├── logistic_regression.py │ │ ├── perceptron.py │ ├── 📂 Regression │ │ ├── linear_regression.py │ │ ├── polynomial_regression.py │ │ ├── ridge_regression.py │ │ ├── lasso_regression.py │ │ ├── support_vector_regression.py │ ├── 📂 Clustering │ │ ├── k_means.py │ │ ├── hierarchical_clustering.py │ ├── 📂 Dimensionality Reduction │ │ ├── principal_component_analysis.py │ │ ├── linear_discriminant_analysis.py ├── README.md ├── requirements.txt ├── main.py
+📂 Machine-Learning-From-Scratch
+ ├── 📂 Utils
+ │   ├── 📂 Classification
+ │   │   ├── decision_tree.py
+ │   │   ├── naive_bayes.py
+ │   │   ├── k_nearest_neighbors.py
+ │   │   ├── support_vector_machine.py
+ │   │   ├── logistic_regression.py
+ │   │   ├── perceptron.py
+ │   ├── 📂 Regression
+ │   │   ├── linear_regression.py
+ │   │   ├── polynomial_regression.py
+ │   │   ├── ridge_regression.py
+ │   │   ├── lasso_regression.py
+ │   │   ├── support_vector_regression.py
+ │   ├── 📂 Clustering
+ │   │   ├── k_means.py
+ │   │   ├── hierarchical_clustering.py
+ │   ├── 📂 Dimensionality Reduction
+ │   │   ├── principal_component_analysis.py
+ │   │   ├── linear_discriminant_analysis.py
+ ├── README.md
+ ├── requirements.txt
+ ├── main.py
+
